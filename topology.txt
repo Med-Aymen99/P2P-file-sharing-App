@@ -1,0 +1,13 @@
+peer1.downloadport=4000
+peer2.downloadport=4001
+peer3.downloadport=4002
+peer4.downloadport=4003
+peer1.next=4
+peer2.next=3
+peer3.next=1
+peer4.next=2
+peer1.serverport=50000
+peer2.serverport=50001
+peer3.serverport=50002
+peer4.serverport=50004
+
